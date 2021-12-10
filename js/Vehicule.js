@@ -1,4 +1,4 @@
-function Vehicule(couleur, roues, marque) {
+const Vehicule = function (couleur, roues, marque) {
     this.couleur = couleur;
     this.roue = roues;
     this.marque = marque;
