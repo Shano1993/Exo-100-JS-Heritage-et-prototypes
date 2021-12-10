@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96069132-a3e2-46e6-b05f-8dd77c3988bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/Vehicule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Velo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Voiture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="96069132-a3e2-46e6-b05f-8dd77c3988bd" name="Default Changelist" comment="proto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +48,16 @@
       <option name="presentableId" value="Default" />
       <updated>1608467479835</updated>
       <workItem from="1608467485874" duration="1007000" />
-      <workItem from="1639141619004" duration="3276000" />
+      <workItem from="1639141619004" duration="3354000" />
     </task>
+    <task id="LOCAL-00001" summary="proto">
+      <created>1639144995880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639144995881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +74,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proto" />
+    <option name="LAST_COMMIT_MESSAGE" value="proto" />
   </component>
 </project>

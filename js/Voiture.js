@@ -1,5 +1,5 @@
 const Voiture = function (couleur, roues, marque, assurance, proprietaire) {
-    Vehicule.call(this, couleur, 2, marque, assurance, proprietaire);
+    Vehicule.call(this, couleur, 2, marque);
     this.assurance = assurance;
     this.proprietaire = proprietaire;
 }
